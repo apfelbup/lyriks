@@ -20,7 +20,7 @@
 
 ## Демо
 
-**[Ссылка на лайв-демо](jovial-sable-051754.netlify.app/)**
+**[Ссылка на лайв-демо](https://jovial-sable-051754.netlify.app/)**
 
 ![image](https://github.com/apfelbup/lyriks/assets/102802834/3f6243a2-72aa-4b8c-9d39-403c89aaaecc)
 
